@@ -1,0 +1,25 @@
+{
+  "name": "own-project-nodejs-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitos987/nodejs-basics-own-project.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Nikita Ambalov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikitos987/nodejs-basics-own-project/issues"
+  },
+  "homepage": "https://github.com/nikitos987/nodejs-basics-own-project#readme"
+}
